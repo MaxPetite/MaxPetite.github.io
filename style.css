@@ -10,8 +10,8 @@ body {
 
 /* Header */
 header {
-    background-color: #222;
-    color: #fff;
+    background-color: #c71288;
+    color: #a8bd0b;
     text-align: center;
     padding: 1rem 0;
 }
@@ -44,15 +44,15 @@ header .button {
     display: inline-block;
     margin-top: 1rem;
     padding: 0.5rem 1rem;
-    background-color: #0078d7;
-    color: #fff;
+    background-color: #cf0000;
+    color: #544141;
     text-decoration: none;
     border-radius: 5px;
     font-size: 1rem;
 }
 
 header .button:hover {
-    background-color: #0056a1;
+    background-color: #000000;
 }
 
 /* Main Content */
