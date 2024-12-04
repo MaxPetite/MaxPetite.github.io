@@ -4,13 +4,13 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #ed46cb;
-    color: #000000;
+    background-color: #cdeb0f;
+    color: #ffea00;
 }
 
 /* Header */
 header {
-    background-color: #c71288;
+    background-color: #e974e9;
     color: #a8bd0b;
     text-align: center;
     padding: 1rem 0;
@@ -71,15 +71,15 @@ main section {
     display: block;
     width: 150px;
     height: 150px;
-    border-radius: 50%;
+    border-radius: 10%;
     margin: 0 auto;
-    border: 3px solid #0078d7;
+    border: 3px solid #ff00ae;
 }
 
 /* Section Titles */
 main section h2 {
     font-size: 1.8rem;
-    color: #0078d7;
+    color: #ccff00;
     margin-bottom: 0.5rem;
 }
 
@@ -94,7 +94,7 @@ main section h2 {
 }
 
 .projects a {
-    color: #0078d7;
+    color: #ff0b0b;
     text-decoration: none;
 }
 
@@ -107,6 +107,6 @@ footer {
     text-align: center;
     padding: 1rem 0;
     background-color: #222;
-    color: #fff;
+    color: #503232;
     font-size: 0.9rem;
 }
